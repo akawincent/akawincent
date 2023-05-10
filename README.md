@@ -25,6 +25,34 @@
 [![Wincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=akawincent&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤖 Works
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><b>Robocup AS/RS</b></td>
+      <td align="center"><b>NUEDC</b></td>
+      <td align="center"><b>Palletizing machines</b></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center"><img alt="Robocup AS/RS" src="display/Robot.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="NUEDC" src="display/lite car.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="Palletizing machines" src="display/shengshiyan.jpg" width="250px" height="200px"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center"><b>Drone</b></td>
+      <td align="center"><b>ZED2 Camera</b></td>
+      <td align="center"><b>SLAM</b></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center"><img alt="Drone" src="display/Drone.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="ZED2 Camera" src="display/ZED.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="SLAM" src="dispaly/fusion.jpg" width="250px" height="200px"></td>
+    </tr>
+    <tr></tr>
+  <tbody>
+</table>
 
 
 

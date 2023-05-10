@@ -34,9 +34,9 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Robocup AS/RS" src="display/Robot.jpg" width="250px" height="200px"></td>
-      <td align="center"><img alt="NUEDC" src="display/lite car.jpg" width="250px" height="200px"></td>
-      <td align="center"><img alt="Palletizing machines" src="display/shengshiyan.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="Robocup AS/RS" src="display/Robot.jpg" width="350px" height="300px"></td>
+      <td align="center"><img alt="NUEDC" src="display/lite car.jpg" width="350px" height="300px"></td>
+      <td align="center"><img alt="Palletizing machines" src="display/shengshiyan.jpg" width="350px" height="300px"></td>
     </tr>
     <tr></tr>
     <tr>
@@ -46,9 +46,9 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Drone" src="display/Drone.jpg" width="250px" height="200px"></td>
-      <td align="center"><img alt="ZED2 Camera" src="display/ZED.jpg" width="250px" height="200px"></td>
-      <td align="center"><img alt="SLAM" src="dispaly/fusion.jpg" width="250px" height="200px"></td>
+      <td align="center"><img alt="Drone" src="display/Drone.jpg" width="350px" height="300px"></td>
+      <td align="center"><img alt="ZED2 Camera" src="display/ZED.jpg" width="350px" height="300px"></td>
+      <td align="center"><img alt="SLAM" src="dispaly/fusion.png" width="350px" height="300px"></td>
     </tr>
     <tr></tr>
   <tbody>

@@ -46,8 +46,8 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Drone" src="display/Drone.jpg" ></td>
-      <td align="center"><img alt="SLAM" src="display/SLAM.png" ></td>
+      <td align="center"><img alt="Drone" src="display/UAV.png" width="300px" height="200px"></td>
+      <td align="center"><img alt="SLAM" src="display/SLAM.png" width="300px" height="200px"></td>
       <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" ></td>
     </tr>
     <tr></tr>

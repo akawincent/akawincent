@@ -41,14 +41,14 @@
     <tr></tr>
     <tr>
       <td align="center"><b>Drone</b></td>
-      <td align="center"><b>ZED2 Camera</b></td>
       <td align="center"><b>SLAM</b></td>
+      <td align="center"><b>ZED2 Camera</b></td>
     </tr>
     <tr></tr>
     <tr>
       <td align="center"><img alt="Drone" src="display/Drone.jpg" ></td>
-      <td align="center"><img alt="ZED2 Camera" src="display/ZED.jpg" ></td>
-      <td align="center"><img alt="SLAM" src="display/fusion.png" ></td>
+      <td align="center"><img alt="SLAM" src="display/SLAM.png" ></td>
+      <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" ></td>
     </tr>
     <tr></tr>
   <tbody>

@@ -1,7 +1,7 @@
 ![image](display/header.png)
 
 
-<h1 align='center'> Think Different,Go Further 🚀</h1>
+<h1 align='center'> Think Different 🤔 <br>  Go Further 🚀</h1>
 
 ## 👋 Hi there 
 - I'm a junior who major in Electronic & Information Engineering in Guang Dong University of Technology(GDUT).

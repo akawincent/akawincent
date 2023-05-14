@@ -51,9 +51,9 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Drone" src="display/UAV.png" width="300px" height="180px"></td>
-      <td align="center"><img alt="SLAM" src="display/SLAM.png" width="300px" height="180px"></td>
-      <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" width="300px" height="180px"></td>
+      <td align="center"><img alt="Drone" src="display/UAV.png" width="285px" height="190px"></td>
+      <td align="center"><img alt="SLAM" src="display/SLAM.png" width="285px" height="190px"></td>
+      <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" ></td>
     </tr>
     <tr></tr>
   <tbody>

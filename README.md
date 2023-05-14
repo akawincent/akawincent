@@ -35,13 +35,13 @@
     <tr>
       <td align="center"><b>Robocup AS/RS</b></td>
       <td align="center"><b>NUEDC</b></td>
-      <td align="center"><b>Palletizing machines</b></td>
+      <td align="center"><b>Filter</b></td>
     </tr>
     <tr></tr>
     <tr>
       <td align="center"><img alt="Robocup AS/RS" src="display/Robot.jpg" ></td>
       <td align="center"><img alt="NUEDC" src="display/lite car.jpg" ></td>
-      <td align="center"><img alt="Palletizing machines" src="display/shengshiyan.jpg" ></td>
+      <td align="center"><img alt="Filter" src="display/Filter.png" ></td>
     </tr>
     <tr></tr>
     <tr>
@@ -51,8 +51,8 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Drone" src="display/UAV.png" width="300px" height="200px"></td>
-      <td align="center"><img alt="SLAM" src="display/SLAM.png" width="300px" height="200px"></td>
+      <td align="center"><img alt="Drone" src="display/UAV.png" width="300px" height="180px"></td>
+      <td align="center"><img alt="SLAM" src="display/SLAM.png" width="300px" height="180px"></td>
       <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" ></td>
     </tr>
     <tr></tr>

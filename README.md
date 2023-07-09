@@ -51,7 +51,7 @@
     </tr>
     <tr></tr>
     <tr>
-      <td align="center"><img alt="Drone" src="display/Drone.png" width="285px" height="170px"></td>
+      <td align="center"><img alt="Drone" src="display/Drone.jpg" width="285px" height="170px"></td>
       <td align="center"><img alt="SLAM" src="display/SLAM.png" width="285px" height="170px"></td>
       <td align="center"><img alt="ZED2 Camera" src="display/fusion.png" ></td>
     </tr>

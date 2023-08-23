@@ -1,13 +1,13 @@
-![image](display/header.png)
+![image](https://github.com/akawincent/akawincent/assets/88481755/f695c764-8064-4371-a32e-19e056d2d63a)![image](display/header.png)
 
 
 <h1 align='center'> Think Different 🤔 <br>  Go Further 🚀</h1>
 
 ## 👋 Hi there 
-- I'm a junior who major in Electronic & Information Engineering in Guang Dong University of Technology(GDUT).
+- I'm a senior who major in Electronic & Information Engineering in Guang Dong University of Technology(GDUT).
 - I have a great passion for VO/VIO/SLAM and Robotics.Now I'm focusing on pose estimation and direct visual odemetry.
-- I'm looking for a Research-Internship/Research-Assistance positon about VO/VIO and SLAM.
-- How to contact me: liwenpu0520@gmail.com.
+- I am currently working as a research intern in Liu Peidong's laboratory at West Lake University.
+- How to contact me: liwenpu0520@gmail.com or liwenpu@westlake.edu.cn.
 
 ## 🛠️ Technologies & Tools
 &nbsp;&nbsp; ![image](https://img.shields.io/badge/Code-C/C++-green.svg) ![image](https://img.shields.io/badge/Code-Python-green.svg) ![image](https://img.shields.io/badge/Code-Matlab-green.svg) ![image](https://img.shields.io/badge/Code-Simulink-green.svg)

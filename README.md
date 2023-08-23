@@ -1,4 +1,4 @@
-![image](https://github.com/akawincent/akawincent/assets/88481755/f695c764-8064-4371-a32e-19e056d2d63a)![image](display/header.png)
+![image](display/header.png)
 
 
 <h1 align='center'> Think Different 🤔 <br>  Go Further 🚀</h1>

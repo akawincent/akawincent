@@ -5,8 +5,8 @@
 
 ## 👋 Hi there 
 - I'm a senior who major in Electronic & Information Engineering in Guang Dong University of Technology(GDUT).
-- I have a great passion for VO/VIO/SLAM and Robotics. Now I'm focusing on pose estimation and direct visual odemetry.
-- I am currently working as a research intern in [Liu Peidong's laboratory](https://ethliup.github.io) at West Lake University.
+- I have a great passion for SLAM/NeRF and Robotics. Now I'm focusing on nerf-slam and 3D reconstruction.
+- I am currently working as a research intern in [Liu Peidong's laboratory(CVGL)](https://ethliup.github.io) at Westlake University.
 - How to contact me: liwenpu0520@gmail.com or liwenpu@westlake.edu.cn.
 
 ## 🛠️ Technologies & Tools

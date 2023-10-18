@@ -1,4 +1,4 @@
-![image](display/gongpai.png)
+![image](display/header.png)
 
 
 <h1 align='center'> Think Different 🤔 <br>  Go Further 🚀</h1>

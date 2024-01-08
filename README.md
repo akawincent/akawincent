@@ -26,7 +26,7 @@
 
 ## 📈 Github Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akawincent&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akawincent&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Wincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=akawincent&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤖 Works

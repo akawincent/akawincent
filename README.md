@@ -1,4 +1,4 @@
-![image](display/header.png)
+![image](display/header.jpeg)
 
 
 <h1 align='center'> Think Different 🤔 <br>  Go Further 🚀</h1>

@@ -12,10 +12,6 @@
 ## ✍️ Blog & Writing
 Apart from coding and researching, I simultaneously maintain a blog including my learning notes and technical summaries.You could find my articles on website [wincent](https://www.zhihu.com/people/wincent-84) as well as on [wincent嘻嘻哈哈](https://blog.csdn.net/weixin_50950634?type=blog)
 
-## 📈 Github Status
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akawincent&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Wincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=akawincent&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
